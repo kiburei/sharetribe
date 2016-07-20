@@ -1,0 +1,5 @@
+[Tue Jul 19 19:54:06.781 2016] [ 8607] Child process 8608 has been forked
+[Tue Jul 19 19:54:06.781 2016] [ 8608] listening on all interfaces, port=3563
+[Tue Jul 19 19:54:06.834 2016] [ 8608] accepting connections
+[Tue Jul 19 20:01:48.908 2016] [ 8608] caught SIGTERM, shutting down
+[Tue Jul 19 20:01:49.920 2016] [ 8608] shutdown complete
